@@ -1,0 +1,5 @@
+IP: 158.160.6.228;
+name_taski: https://kazikovtaski.viewdns.net/;
+name_kittygram: https://kazikovkittygram.viewdns.net/;
+login: user;
+password: aleksey123; 
