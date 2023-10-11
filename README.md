@@ -121,3 +121,4 @@ WantedBy=multi-user.target`
 ---
 ## Лицензия
 [MIT](https://opensource.org/licenses/MIT)
+
